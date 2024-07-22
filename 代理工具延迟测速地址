@@ -1,0 +1,27 @@
+代理工具延迟测速地址合集推荐测速地址
+各个代理工具都有一个测试节点延迟的功能，在V2rayN中又叫「真连接延迟」，目前各个工具都提供了修改测试链接地址的功能，以下为搜集的测速地址，可按自己测速情况来选择使用。
+推荐排序提供厂商URL 地址
+备注
+1 Apple
+http://www.apple.com/library/test/success.html
+对中国大陆和境外都是最友好的
+
+2 高通
+http://www.qualcomm.cn/generate_204
+对中国大陆和境外都是最友好的
+
+3 Cloudflare
+http://cp.cloudflare.com/
+境外代理节点好用，对中国大陆不太友好
+
+4 Google
+http://www.gstatic.com/generate_204
+各大代理工具都默认使用的地址，对中国大陆和境外都比较友好
+
+5 Google
+https://www.gstatic.com/generate_204
+TLS延迟会比较高，但会杜绝一些假延迟的情况
+
+6 Microsoft
+http://www.msftconnecttest.com/connecttest.txt
+入口一般
