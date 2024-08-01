@@ -1,0 +1,188 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+23.158.136.38,56725,443,TRUE,US|洛杉磯,North America,Los Angeles,162,8.09
+154.17.12.190,49920,443,TRUE,US|洛杉磯,North America,Los Angeles,170,8.12
+154.9.238.163,20003,443,TRUE,US|洛杉磯,North America,Los Angeles,166,8.12
+154.17.12.190,49071,443,TRUE,US|洛杉磯,North America,Los Angeles,165,8.23
+23.166.168.67,13117,443,TRUE,US|洛杉磯,North America,Los Angeles,162,8.24
+154.17.12.190,49998,443,TRUE,US|洛杉磯,North America,Los Angeles,164,8.25
+154.23.244.100,56529,443,TRUE,US|洛杉磯,North America,Los Angeles,171,8.27
+154.17.12.190,49372,443,TRUE,US|洛杉磯,North America,Los Angeles,166,8.27
+154.17.29.69,6667,443,TRUE,US|洛杉磯,North America,Los Angeles,166,8.28
+154.17.12.190,49723,443,TRUE,US|洛杉磯,North America,Los Angeles,169,8.33
+154.21.93.124,14280,443,TRUE,US|洛杉磯,North America,Los Angeles,162,8.42
+154.21.94.95,18204,443,TRUE,US|洛杉磯,North America,Los Angeles,167,8.55
+154.17.12.190,49854,443,TRUE,US|洛杉磯,North America,Los Angeles,165,8.59
+154.17.27.28,22288,443,TRUE,US|洛杉磯,North America,Los Angeles,164,8.66
+154.17.12.190,49800,443,TRUE,US|洛杉磯,North America,Los Angeles,162,8.66
+91.149.239.62,443,443,TRUE,US|洛杉磯,North America,Los Angeles,169,8.69
+154.17.29.112,32568,443,TRUE,US|洛杉磯,North America,Los Angeles,171,8.69
+154.17.31.108,19355,443,TRUE,US|洛杉磯,North America,Los Angeles,165,8.72
+154.17.12.190,49657,443,TRUE,US|洛杉磯,North America,Los Angeles,169,8.78
+154.7.181.36,37593,443,TRUE,US|洛杉磯,North America,Los Angeles,165,8.83
+154.17.12.190,49461,443,TRUE,US|洛杉磯,North America,Los Angeles,160,8.86
+154.17.12.190,49067,443,TRUE,US|洛杉磯,North America,Los Angeles,173,8.96
+154.17.12.190,49296,443,TRUE,US|洛杉磯,North America,Los Angeles,170,9
+202.91.35.9,20443,443,TRUE,US|洛杉磯,North America,Los Angeles,189,9.2
+154.21.85.152,46697,443,TRUE,US|洛杉磯,North America,Los Angeles,172,9.25
+154.7.180.140,51825,443,TRUE,US|洛杉磯,North America,Los Angeles,175,9.27
+154.17.12.190,49856,443,TRUE,US|洛杉磯,North America,Los Angeles,171,9.28
+207.60.50.225,21825,443,TRUE,US|洛杉磯,North America,Los Angeles,163,9.49
+23.169.184.96,29148,443,TRUE,US|洛杉磯,North America,Los Angeles,165,9.5
+154.17.12.190,49420,443,TRUE,US|洛杉磯,North America,Los Angeles,164,9.58
+154.9.241.183,16356,443,TRUE,US|洛杉磯,North America,Los Angeles,181,9.71
+154.21.80.55,13171,443,TRUE,US|洛杉磯,North America,Los Angeles,171,9.8
+23.166.168.196,443,443,TRUE,US|洛杉磯,North America,Los Angeles,162,9.8
+154.17.12.190,49523,443,TRUE,US|洛杉磯,North America,Los Angeles,164,9.85
+154.9.250.154,34237,2096,TRUE,US|洛杉磯,North America,Los Angeles,172,9.93
+23.169.184.179,53763,443,TRUE,US|洛杉磯,North America,Los Angeles,171,10.01
+154.9.241.153,23091,443,TRUE,US|洛杉磯,North America,Los Angeles,179,10.03
+154.17.12.190,49318,443,TRUE,US|洛杉磯,North America,Los Angeles,167,10.04
+154.9.241.153,44075,443,TRUE,US|洛杉磯,North America,Los Angeles,182,10.08
+38.47.116.136,34237,2096,TRUE,US|洛杉磯,North America,Los Angeles,163,10.17
+34.36.41.236,80,80,FALSE,US|洛杉磯,North America,Los Angeles,168,10.24
+154.17.12.190,49213,443,TRUE,US|洛杉磯,North America,Los Angeles,168,10.25
+38.207.171.114,33375,443,TRUE,US|洛杉磯,North America,Los Angeles,167,10.28
+38.47.114.85,34237,2096,TRUE,US|洛杉磯,North America,Los Angeles,165,10.31
+154.17.12.190,49397,443,TRUE,US|洛杉磯,North America,Los Angeles,161,10.35
+23.166.168.86,13283,443,TRUE,US|洛杉磯,North America,Los Angeles,168,10.36
+2.59.151.85,48333,443,TRUE,US|洛杉磯,North America,Los Angeles,162,10.46
+154.17.30.48,16886,443,TRUE,US|洛杉磯,North America,Los Angeles,159,10.48
+154.17.12.190,49357,443,TRUE,US|洛杉磯,North America,Los Angeles,164,10.55
+154.17.19.18,28479,443,TRUE,US|洛杉磯,North America,Los Angeles,160,10.61
+23.165.248.56,22389,443,TRUE,US|洛杉磯,North America,Los Angeles,162,10.65
+154.17.12.190,49038,443,TRUE,US|洛杉磯,North America,Los Angeles,166,10.83
+104.167.247.176,28619,443,TRUE,US|洛杉磯,North America,Los Angeles,164,10.9
+154.21.81.59,59265,443,TRUE,US|洛杉磯,North America,Los Angeles,173,10.92
+154.21.95.60,20881,443,TRUE,US|洛杉磯,North America,Los Angeles,166,11
+154.17.29.48,17352,443,TRUE,US|洛杉磯,North America,Los Angeles,169,11.19
+154.17.230.212,54718,443,TRUE,US|洛杉磯,North America,Los Angeles,169,11.22
+91.149.239.238,443,443,TRUE,US|洛杉磯,North America,Los Angeles,168,12.73
+154.21.91.6,15390,443,TRUE,US|洛杉磯,North America,Los Angeles,164,13.27
+154.17.9.70,882,443,TRUE,US|洛杉磯,North America,Los Angeles,172,13.54
+152.70.155.147,2087,2087,TRUE,US|洛杉磯,North America,Los Angeles,190,15.67
+38.59.241.77,56470,443,TRUE,US|聖何塞,North America,San Jose,156,5.24
+38.59.249.179,18090,443,TRUE,US|聖何塞,North America,San Jose,158,6.98
+185.218.7.217,1443,443,TRUE,US|聖何塞,North America,San Jose,162,7.03
+37.123.193.101,17475,443,TRUE,US|聖何塞,North America,San Jose,181,11.8
+37.123.193.228,19220,443,TRUE,US|聖何塞,North America,San Jose,192,11.99
+38.59.249.142,20657,443,TRUE,US|聖何塞,North America,San Jose,156,12.81
+47.236.102.102,2082,2082,FALSE,SG|新加坡,Asia Pacific,Singapore,245,8.09
+47.236.93.176,8880,8880,FALSE,SG|新加坡,Asia Pacific,Singapore,249,8.1
+47.237.11.182,2086,2086,FALSE,SG|新加坡,Asia Pacific,Singapore,255,8.2
+47.236.9.152,2083,2083,TRUE,SG|新加坡,Asia Pacific,Singapore,264,8.33
+47.236.75.152,2083,2083,TRUE,SG|新加坡,Asia Pacific,Singapore,260,8.39
+47.236.164.215,2096,2096,TRUE,SG|新加坡,Asia Pacific,Singapore,259,8.46
+47.236.144.208,2086,2086,FALSE,SG|新加坡,Asia Pacific,Singapore,256,8.49
+8.219.93.5,2086,2086,FALSE,SG|新加坡,Asia Pacific,Singapore,282,8.56
+47.236.165.25,2052,2052,FALSE,SG|新加坡,Asia Pacific,Singapore,269,8.62
+47.236.253.41,2052,2052,FALSE,SG|新加坡,Asia Pacific,Singapore,269,8.8
+47.236.17.193,2052,2052,FALSE,SG|新加坡,Asia Pacific,Singapore,250,8.85
+47.236.237.90,8880,8880,FALSE,SG|新加坡,Asia Pacific,Singapore,267,9.33
+47.236.130.95,2083,2083,TRUE,SG|新加坡,Asia Pacific,Singapore,266,9.39
+47.236.170.54,2082,2082,FALSE,SG|新加坡,Asia Pacific,Singapore,262,9.57
+8.219.86.200,2095,2095,FALSE,SG|新加坡,Asia Pacific,Singapore,249,9.97
+8.219.189.143,80,80,FALSE,SG|新加坡,Asia Pacific,Singapore,240,10.12
+47.236.167.231,8443,8443,TRUE,SG|新加坡,Asia Pacific,Singapore,241,10.6
+8.219.40.37,8080,8080,FALSE,SG|新加坡,Asia Pacific,Singapore,55,10.88
+8.219.117.198,80,80,FALSE,SG|新加坡,Asia Pacific,Singapore,246,10.88
+47.236.144.208,8880,8880,FALSE,SG|新加坡,Asia Pacific,Singapore,251,11.02
+8.219.201.245,2086,2086,FALSE,SG|新加坡,Asia Pacific,Singapore,265,11.12
+8.222.160.176,80,80,FALSE,SG|新加坡,Asia Pacific,Singapore,247,11.22
+8.219.40.37,2095,2095,FALSE,SG|新加坡,Asia Pacific,Singapore,51,11.32
+47.236.9.152,8880,8880,FALSE,SG|新加坡,Asia Pacific,Singapore,248,11.7
+47.236.205.188,8080,8080,FALSE,SG|新加坡,Asia Pacific,Singapore,267,11.74
+47.236.144.196,2095,2095,FALSE,SG|新加坡,Asia Pacific,Singapore,254,12.24
+8.222.160.176,8880,8880,FALSE,SG|新加坡,Asia Pacific,Singapore,256,12.52
+8.222.169.222,2096,2096,TRUE,SG|新加坡,Asia Pacific,Singapore,263,13.83
+13.250.131.37,443,443,TRUE,SG|新加坡,Asia Pacific,Singapore,59,19.79
+8.219.40.37,80,80,FALSE,SG|新加坡,Asia Pacific,Singapore,55,23.4
+47.238.6.58,2096,2096,TRUE,HK|香港,Asia Pacific,Hong Kong,18,8.28
+8.217.66.3,2083,2083,TRUE,HK|香港,Asia Pacific,Hong Kong,26,8.32
+8.210.21.65,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,16,8.43
+37.123.196.135,443,80,FALSE,HK|香港,Asia Pacific,Hong Kong,201,8.51
+47.238.6.58,8443,8443,TRUE,HK|香港,Asia Pacific,Hong Kong,20,8.51
+8.218.11.90,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,26,8.78
+47.76.37.57,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,19,8.81
+154.204.60.218,29876,443,TRUE,HK|香港,Asia Pacific,Hong Kong,88,8.87
+154.204.56.238,34237,2096,TRUE,HK|香港,Asia Pacific,Hong Kong,79,9.4
+8.210.65.1,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,21,9.65
+47.76.37.57,8080,8080,FALSE,HK|香港,Asia Pacific,Hong Kong,18,10.16
+47.76.77.103,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,26,10.41
+47.238.6.102,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,18,11.88
+47.76.29.115,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,24,12.02
+8.218.243.95,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,23,12.03
+154.12.60.51,443,443,TRUE,HK|香港,Asia Pacific,Hong Kong,22,12.2
+47.76.227.128,2087,2087,TRUE,HK|香港,Asia Pacific,Hong Kong,26,12.71
+8.218.11.90,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,24,12.78
+47.76.178.146,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,19,13.12
+8.210.3.24,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,22,13.21
+8.218.11.90,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,22,13.28
+8.218.52.115,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,22,13.7
+8.210.3.24,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,24,13.7
+8.218.18.235,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,17,14.2
+47.76.29.115,2087,2087,TRUE,HK|香港,Asia Pacific,Hong Kong,26,14.47
+8.218.126.53,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,21,14.52
+8.218.126.53,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,18,14.73
+8.218.74.119,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,19,14.98
+47.76.159.146,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,26,15.08
+47.76.159.146,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,26,15.1
+8.218.65.237,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,23,15.87
+8.217.239.116,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,22,16.66
+47.76.37.57,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,23,16.9
+8.217.72.0,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,18,17.37
+47.238.43.79,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,21,18.05
+8.218.65.237,2082,2082,FALSE,HK|香港,Asia Pacific,Hong Kong,20,18.87
+60.246.180.236,32544,443,TRUE,HK|香港,Asia Pacific,Hong Kong,31,19.11
+8.217.91.121,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,20,19.45
+8.217.145.40,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,24,19.62
+47.76.26.26,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,25,19.9
+8.218.174.118,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,27,20.34
+47.238.40.58,2083,2083,TRUE,HK|香港,Asia Pacific,Hong Kong,22,20.51
+47.238.43.79,2083,2083,TRUE,HK|香港,Asia Pacific,Hong Kong,21,21.18
+47.238.35.50,8443,8443,TRUE,HK|香港,Asia Pacific,Hong Kong,18,21.26
+47.76.178.146,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,23,23.14
+8.218.122.55,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,23,24.42
+8.217.149.28,2083,2083,TRUE,HK|香港,Asia Pacific,Hong Kong,16,24.88
+8.218.74.119,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,18,25.09
+8.218.181.189,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,25,25.15
+8.218.8.142,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,21,25.36
+8.218.11.90,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,23,25.76
+47.76.178.146,8080,8080,FALSE,HK|香港,Asia Pacific,Hong Kong,22,26.58
+47.76.159.146,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,19,26.63
+8.218.18.132,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,26,27.08
+47.76.227.128,2096,2096,TRUE,HK|香港,Asia Pacific,Hong Kong,25,27.24
+8.218.65.171,2087,2087,TRUE,HK|香港,Asia Pacific,Hong Kong,28,27.57
+8.218.8.142,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,21,27.81
+47.76.77.103,2082,2082,FALSE,HK|香港,Asia Pacific,Hong Kong,24,28.25
+8.218.8.142,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,14,28.39
+8.218.126.53,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,19,31.57
+8.210.21.65,2052,2052,FALSE,HK|香港,Asia Pacific,Hong Kong,23,32.32
+8.218.122.55,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,22,32.87
+47.76.159.146,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,26,33.02
+47.242.7.162,2087,2087,TRUE,HK|香港,Asia Pacific,Hong Kong,24,33.36
+47.76.159.146,8443,8443,TRUE,HK|香港,Asia Pacific,Hong Kong,25,33.5
+8.218.18.132,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,22,34.5
+47.76.26.26,2096,2096,TRUE,HK|香港,Asia Pacific,Hong Kong,27,34.54
+8.218.122.55,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,20,34.64
+8.218.204.128,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,21,34.77
+8.218.188.129,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,22,34.99
+8.217.91.121,8880,8880,FALSE,HK|香港,Asia Pacific,Hong Kong,25,35.22
+47.76.227.40,2087,2087,TRUE,HK|香港,Asia Pacific,Hong Kong,20,35.29
+8.217.91.121,80,80,FALSE,HK|香港,Asia Pacific,Hong Kong,19,35.38
+8.217.145.40,8080,8080,FALSE,HK|香港,Asia Pacific,Hong Kong,22,35.55
+47.76.227.40,2096,2096,TRUE,HK|香港,Asia Pacific,Hong Kong,18,35.87
+8.218.18.235,2086,2086,FALSE,HK|香港,Asia Pacific,Hong Kong,18,36.07
+156.251.176.112,52032,443,TRUE,HK|香港,Asia Pacific,Hong Kong,60,36.39
+8.217.159.210,2083,2083,TRUE,HK|香港,Asia Pacific,Hong Kong,15,37.82
+47.238.6.58,2053,2053,TRUE,HK|香港,Asia Pacific,Hong Kong,26,37.89
+23.225.64.9,10089,443,TRUE,HK|香港,Asia Pacific,Hong Kong,65,38.3
+8.218.18.235,2095,2095,FALSE,HK|香港,Asia Pacific,Hong Kong,16,40.35
+48.218.110.214,8443,443,TRUE,JP|東京,Asia Pacific,Tokyo,93,8.3
+141.98.197.101,11665,443,TRUE,JP|東京,Asia Pacific,Tokyo,99,8.95
+47.236.125.62,2087,2087,TRUE,JP|東京,Asia Pacific,Tokyo,343,11.65
+185.184.223.19,59775,443,TRUE,JP|東京,Asia Pacific,Tokyo,97,12.38
+172.93.220.153,12345,80,FALSE,JP|東京,Asia Pacific,Tokyo,97,12.91
+149.62.44.233,41165,443,TRUE,JP|東京,Asia Pacific,Tokyo,93,14.21
+141.98.196.180,36257,443,TRUE,JP|東京,Asia Pacific,Tokyo,91,15.17
+45.159.48.192,12212,443,TRUE,JP|東京,Asia Pacific,Tokyo,94,15.34
+109.107.137.22,44004,443,TRUE,JP|東京,Asia Pacific,Tokyo,90,16.04
